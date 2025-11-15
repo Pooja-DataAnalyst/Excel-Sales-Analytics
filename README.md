@@ -19,14 +19,14 @@
 **1.** Compile Profit and Loss (P&L) insights by [Fiscal Year](https://github.com/Pooja-DataAnalyst/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf) to support strategic financial analysis and long-term planning.
 
  **2.** Generate Profit and Loss (P&L) reports by [Fiscal Months](https://github.com/Pooja-DataAnalyst/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Month.pdf) for improved financial visibility and performance evaluation.
- - **Purpose of sales analytics:** Measure financial health, support strategic decisions, and engage stakeholders effectively.
+ - **Purpose of sales analytics:** Measure financial health, support strategic decisions and engage stakeholders effectively.
 
 - **Importance of analyzing Finance data:** Evaluate progress against peers and strengthen budgeting and forecasting.
 
 - **Role of reports:** Align financial planning with organizational goals while strengthening stakeholder confidence in future financial performance.
 
 
-## Technical & Soft Skills:
+## Technical Skills:
 - [x]	Proficiency in ETL methodology (Extract, Transform, Load).
 - [x]	Skills to generate a date table using Power Query.
 - [x]	Ability to derive fiscal months and quarters.
