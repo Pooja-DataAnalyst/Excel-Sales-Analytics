@@ -2,9 +2,9 @@
 
 - **Project objective:**
 
-**1.** Create a comprehensive [Customer Performance Report](https://github.com/Pooja-DataAnalyst/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf) to analyze sales across global customers.
+**1.** Create a comprehensive [Customer Performance Report](https://github.com/Pooja24682012/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf) to analyze sales across global customers.
 
- **2.** Develop a [Market Performance vs Target Report](https://github.com/Pooja-DataAnalyst/Excel-Sales-Analytics/blob/main/Market%20Performance%20Vs%20Target.pdf) to compare actual sales against assigned targets.
+ **2.** Develop a [Market Performance vs Target Report](https://github.com/Pooja24682012/Excel-Sales-Analytics/blob/main/Market%20Performance%20Vs%20Target.pdf) to compare actual sales against assigned targets.
 
 - **Purpose of sales analytics:** Supports organizations in reviewing and optimizing their sales activities.
 
@@ -16,9 +16,9 @@
 
 - **Project objective:**
   
-**1.** Compile Profit and Loss (P&L) insights by [Fiscal Year](https://github.com/Pooja-DataAnalyst/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf) to support strategic financial analysis and long-term planning.
+**1.** Compile Profit and Loss (P&L) insights by [Fiscal Year](https://github.com/Pooja24682012/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf) to support strategic financial analysis and long-term planning.
 
- **2.** Generate Profit and Loss (P&L) reports by [Fiscal Months](https://github.com/Pooja-DataAnalyst/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Month.pdf) for improved financial visibility and performance evaluation.
+ **2.** Generate Profit and Loss (P&L) reports by [Fiscal Months](https://github.com/Pooja24682012/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Month.pdf) for improved financial visibility and performance evaluation.
  - **Purpose of sales analytics:** Measure financial health, support strategic decisions and engage stakeholders effectively.
 
 - **Importance of analyzing Finance data:** Evaluate progress against peers and strengthen budgeting and forecasting.
